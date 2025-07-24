@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10896","Search for 'Systems Egypt' on Google","Default Suite","Thu Jul 24 00:38:03 EEST 2025","broken","Thu Jul 24 00:38:14 EEST 2025","GoogleSearchTests","SystemsLimitedTask","GoogleSearchTests","testOne"

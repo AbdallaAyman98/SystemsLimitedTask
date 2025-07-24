@@ -1,0 +1,7 @@
+{
+  "searchQuery": "Systems Egypt",
+  "expectedResultsCountPage2": "10",
+  "expectedResultsCountPage3": "11",
+  "_comment": "blnSearch is a flag to decide whether to perform the search action",
+  "blnSearch": "Y"
+}

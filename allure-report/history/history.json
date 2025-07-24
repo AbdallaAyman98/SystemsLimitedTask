@@ -1,0 +1,1 @@
+{"bbe98ef3bd589ad73829d07b62f0b668":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"1868be18daf1bd39","status":"broken","statusDetails":"No elements found for label: Results Links","time":{"start":1753306683128,"stop":1753306694024,"duration":10896}}]}}
